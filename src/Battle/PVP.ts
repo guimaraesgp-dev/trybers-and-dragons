@@ -4,7 +4,6 @@ import Battle from './Battle';
 class PVP extends Battle {
   private _play1: Fighter;
   private _play2: Fighter;
-
   constructor(play1: Fighter, play2: Fighter) {
     super(play1);
     this._play1 = play1;
