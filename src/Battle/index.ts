@@ -3,4 +3,7 @@ import PVP from './PVP';
 
 export default Battle;
 
-export { PVP };
+export {
+  PVP, 
+
+};
